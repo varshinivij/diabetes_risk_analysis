@@ -6,3 +6,6 @@ Collaborators: Amy, Rebecca, Varshini
 Professor: Dr. Nadia Ahmed 
 
 Dataset: https://archive.ics.uci.edu/dataset/34/diabetes
+
+Output:
+<img width="1489" height="954" alt="output (1)" src="https://github.com/user-attachments/assets/77de5fbc-eed7-4b0d-86a4-1875c13cc4ba" />
